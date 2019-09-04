@@ -1,0 +1,42 @@
+#start
+{
+    background-color: cornflowerblue;
+    border: darkblue solid 5px;
+    text-align: center;
+    color: lightblue;
+    border-radius: 10px;
+}
+#c-B
+{
+    border: cadetblue solid 5px;
+    color: darkblue;
+    background-color: mediumturquoise;
+    border-radius: 10px;
+}
+
+#items
+{
+    position: relative;
+    padding-left: 60px ;
+    padding-bottom: 10px;
+    width: 50%;
+    list-style-image: url("img/cake.PNG");
+
+}
+aside
+{
+    background-color: ;
+    border-radius: 10px;
+    border: deeppink solid 5px;
+    text-align: right;
+
+}
+
+#b-o
+{
+    background-color: lightskyblue;
+    border: navy solid  5px;
+    border-radius: 10px;
+    text-align: center;
+
+}
